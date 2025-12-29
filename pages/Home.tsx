@@ -21,7 +21,7 @@ export const Home: React.FC = () => {
           <span className="text-accent">결과로 말하는</span> 개발.
         </h1>
         <p className="text-xl text-gray-500 max-w-2xl mb-12">
-          심미성을 넘어 비즈니스 임팩트를 창출합니다. 데이터에 기반한 의사결정 과정을 확인하세요. 함께 성장할 준비가 된 4년 차 전문가입니다.
+          심미성을 넘어 비즈니스 임팩트를 창출합니다. 데이터에 기반한 의사결정 과정을 확인하세요. 함께 성장할 준비가 된 20년 차 전문가입니다.
         </p>
         
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 border-t border-gray-100 pt-12">
@@ -30,7 +30,7 @@ export const Home: React.FC = () => {
             <div className="text-sm text-gray-400">평균 전환율 향상</div>
           </div>
           <div>
-            <div className="text-3xl font-bold text-primary">5+</div>
+            <div className="text-3xl font-bold text-primary">20+</div>
             <div className="text-sm text-gray-400">년차 경력</div>
           </div>
           <div>

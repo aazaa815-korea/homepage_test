@@ -19,7 +19,7 @@ export const About: React.FC = () => {
             전문가입니다.
           </h1>
           <p className="text-lg text-gray-600 leading-relaxed mb-8">
-            3년 이상의 실무 경험을 통해 단순한 시각적 개선을 넘어, 비즈니스의 문제를 해결하고 수치화된 성과를 만들어내는 것에 가치를 둡니다.
+            20년 이상의 실무 경험을 통해 단순한 시각적 개선을 넘어, 비즈니스의 문제를 해결하고 수치화된 성과를 만들어내는 것에 가치를 둡니다.
             디자인과 개발의 경계를 허물고 사용자 중심의 최적의 솔루션을 제안합니다.
           </p>
           <button className="px-8 py-3 bg-primary text-white rounded-full font-bold hover:shadow-lg transition-all">
